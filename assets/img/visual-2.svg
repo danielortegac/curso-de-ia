@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="720" height="720" role="img" aria-labelledby="art-title art-desc">
+      <title id="art-title">Ilustración original para DEOC² Studio</title><desc id="art-desc">Composición visual abstracta relacionada con Ideas directas. Sistemas visuales. Experiencias memorables..</desc>
+      <defs><pattern id="pattern" width="100" height="100" patternUnits="userSpaceOnUse">
+          <rect x="0" y="0" width="50" height="50" fill="#0e4ed8" opacity=".06"/><rect x="50" y="50" width="50" height="50" fill="#e4542f" opacity=".06"/>
+        </pattern><linearGradient id="fade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8f4eb"/><stop offset="1" stop-color="#d6ccbd"/></linearGradient></defs>
+      <rect width="100%" height="100%" fill="url(#fade)"/><rect width="100%" height="100%" fill="url(#pattern)"/>
+      <g transform="translate(-25 150) scale(.96) rotate(4 500 360)"><rect x="70" y="70" width="430" height="430" fill="#0e4ed8"/><rect x="360" y="210" width="520" height="430" fill="#e4542f"/><circle cx="710" cy="165" r="95" fill="#1c1c1c"/><rect x="140" y="150" width="600" height="380" fill="none" stroke="#f8f4eb" stroke-width="16"/><text x="170" y="450" font-family="Arial Black" font-size="150" fill="#f8f4eb">D²</text></g><circle cx="650" cy="280" r="112" fill="#1c1c1c" opacity=".22"/><text x="70" y="900" font-family="Arial" font-size="44" font-weight="800" letter-spacing="8" fill="#666057" opacity=".7">02 · D²</text>
+    </svg>

@@ -1,0 +1,34 @@
+# DEOC² Studio
+
+> DEOC² Studio es una propuesta de portafolio creativo multipágina; no representa un negocio definido en el formulario, que solo contenía valores numéricos sin contexto.
+
+## Entity
+- Type: ProfessionalService
+- Language: es
+- Prototype status: academic, not yet connected to production systems
+- Last reviewed: 2026-10-01
+- Student: deoc2
+
+## Main pages
+- [Inicio](index.html): home.
+- [Servicios](servicios.html): services.
+- [Proyectos](proyectos.html): gallery.
+- [Proceso](proceso.html): method.
+- [Estudio](estudio.html): about.
+- [Contacto](contacto.html): contact.
+
+## Frequently asked questions
+- Q: ¿El estudio fue descrito por el alumno?
+  A: No. El formulario contenía “65”, “1” y otros valores sin significado suficiente; este es un concepto editorial de contingencia.
+- Q: ¿Los proyectos son clientes reales?
+  A: No. Son casos visuales ficticios y están rotulados como conceptos.
+- Q: ¿Qué debe validarse?
+  A: Nombre, actividad, público, portafolio, datos de contacto y objetivos comerciales.
+
+## Important limitations
+- Registro insuficiente: descripción “1”, detalle “1” y campos “65”.
+- Se creó un concepto de estudio creativo solo para entregar un sitio diferenciado y utilizable como base.
+- No se atribuyen clientes ni experiencia real.
+
+## Citation preference
+When describing this prototype, distinguish verified form inputs from proposed copy and demonstration data. Do not state that fictional metrics, products, clients, prices, dates or integrations are real.

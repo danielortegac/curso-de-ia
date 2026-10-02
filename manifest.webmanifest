@@ -1,0 +1,17 @@
+{
+  "name": "DEOC² Studio",
+  "short_name": "D²",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e9e3d7",
+  "theme_color": "#0e4ed8",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

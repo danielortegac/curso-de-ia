@@ -1,0 +1,68 @@
+{
+  "entity": {
+    "name": "DEOC² Studio",
+    "type": "ProfessionalService",
+    "description": "Concepto de estudio creativo y digital construido como demostración ante un formulario sin información suficiente.",
+    "directAnswer": "DEOC² Studio es una propuesta de portafolio creativo multipágina; no representa un negocio definido en el formulario, que solo contenía valores numéricos sin contexto.",
+    "language": "es"
+  },
+  "sourceRecord": {
+    "student": "deoc2",
+    "projectType": "pagina_web",
+    "businessDescription": "1",
+    "technicalDetails": "1"
+  },
+  "pages": [
+    {
+      "url": "index.html",
+      "name": "Inicio",
+      "purpose": "home"
+    },
+    {
+      "url": "servicios.html",
+      "name": "Servicios",
+      "purpose": "services"
+    },
+    {
+      "url": "proyectos.html",
+      "name": "Proyectos",
+      "purpose": "gallery"
+    },
+    {
+      "url": "proceso.html",
+      "name": "Proceso",
+      "purpose": "method"
+    },
+    {
+      "url": "estudio.html",
+      "name": "Estudio",
+      "purpose": "about"
+    },
+    {
+      "url": "contacto.html",
+      "name": "Contacto",
+      "purpose": "contact"
+    }
+  ],
+  "faq": [
+    {
+      "question": "¿El estudio fue descrito por el alumno?",
+      "answer": "No. El formulario contenía “65”, “1” y otros valores sin significado suficiente; este es un concepto editorial de contingencia."
+    },
+    {
+      "question": "¿Los proyectos son clientes reales?",
+      "answer": "No. Son casos visuales ficticios y están rotulados como conceptos."
+    },
+    {
+      "question": "¿Qué debe validarse?",
+      "answer": "Nombre, actividad, público, portafolio, datos de contacto y objetivos comerciales."
+    }
+  ],
+  "assumptions": [
+    "Registro insuficiente: descripción “1”, detalle “1” y campos “65”.",
+    "Se creó un concepto de estudio creativo solo para entregar un sitio diferenciado y utilizable como base.",
+    "No se atribuyen clientes ni experiencia real."
+  ],
+  "updated": "2026-10-01",
+  "prototype": true
+}

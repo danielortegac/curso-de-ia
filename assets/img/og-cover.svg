@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+      <rect width="1200" height="630" fill="#e9e3d7"/>
+      <g transform="translate(620 -35) scale(.65)">
+      <title id="art-title">Ilustración original para DEOC² Studio</title><desc id="art-desc">Composición visual abstracta relacionada con Ideas directas. Sistemas visuales. Experiencias memorables..</desc>
+      <defs><pattern id="pattern" width="100" height="100" patternUnits="userSpaceOnUse">
+          <rect x="0" y="0" width="50" height="50" fill="#0e4ed8" opacity=".06"/><rect x="50" y="50" width="50" height="50" fill="#e4542f" opacity=".06"/>
+        </pattern><linearGradient id="fade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8f4eb"/><stop offset="1" stop-color="#d6ccbd"/></linearGradient></defs>
+      <rect width="100%" height="100%" fill="url(#fade)"/><rect width="100%" height="100%" fill="url(#pattern)"/>
+      <g transform="translate(-25 35) scale(1.03)"><rect x="70" y="70" width="430" height="430" fill="#0e4ed8"/><rect x="360" y="210" width="520" height="430" fill="#e4542f"/><circle cx="710" cy="165" r="95" fill="#1c1c1c"/><rect x="140" y="150" width="600" height="380" fill="none" stroke="#f8f4eb" stroke-width="16"/><text x="170" y="450" font-family="Arial Black" font-size="150" fill="#f8f4eb">D²</text></g><circle cx="770" cy="155" r="61" fill="#1c1c1c" opacity=".18"/>
+    </g>
+      <rect x="0" y="0" width="700" height="630" fill="#e9e3d7"/>
+      <text x="70" y="120" font-family="Arial" font-size="26" font-weight="700" letter-spacing="4" fill="#0e4ed8">PROTOTIPO MULTIPÁGINA</text>
+      <text x="70" y="240" font-family="Arial" font-size="66" font-weight="800" fill="#121212">DEOC² Studio</text>
+      <foreignObject x="70" y="285" width="560" height="170"><div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Arial;font-size:30px;line-height:1.3;color:#666057">Ideas directas. Sistemas visuales. Experiencias memorables.</div></foreignObject>
+      <rect x="70" y="520" width="270" height="52" rx="26" fill="#0e4ed8"/><text x="205" y="554" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#ffffff">SEO · GEO · AEO</text>
+    </svg>
