@@ -36,3 +36,12 @@ Después vuelva a subir la carpeta.
 - respuestas directas y FAQ redactadas para motores de respuesta;
 - imágenes locales con texto alternativo y dimensiones;
 - página 404, privacidad y accesibilidad.
+
+## Publicar en Netlify (sitio estático)
+1. En Netlify, elija **Add new project → Import an existing project → GitHub**.
+2. Seleccione `danielortegac/curso-de-ia`, rama `main`.
+3. Configure el **Publish directory** como `.` (raíz); no requiere build command.
+4. Active **Forms → Form detection** y lance un deploy nuevo si la detección estaba desactivada.
+5. Verifique `contacto.html` y que el envío aparezca en **Forms**; configure notificaciones desde Netlify.
+
+El contacto usa Netlify Forms con `POST`, honeypot y página `/gracias`; no es un sistema de login. La autenticación de usuarios no está implementada. No añada secretos al repositorio. Revise la política de privacidad y los contenidos provisionales antes de usarlo comercialmente.
